@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/hinkey/alipay-node-sdk/issues"
   },
-  "homepage": "https://github.com/hinkey/alipay-node-sdk#readme"
+  "homepage": "https://github.com/hinkey/alipay-node-sdk#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
 }
