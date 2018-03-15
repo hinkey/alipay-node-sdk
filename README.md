@@ -1,6 +1,6 @@
 # alipay-node-sdk 
 
-> 支付宝新版App支付nodejs版sdk.
+> 支付宝新版App支付nodejs版sdk.新增了单笔转账到支付宝账户接口、查询转账订单接口，后续有需要在增加其他接口
 
 **Examples**
 
@@ -237,7 +237,7 @@ ali.billDownloadUrlQuery({
 Install with [npm](https://www.npmjs.com/)
 
 ```sh
-$ npm i alipay-node-sdk --save
+$ npm i hinkey-alipay-node-sdk --save
 ```
 
 ## 贡献者
